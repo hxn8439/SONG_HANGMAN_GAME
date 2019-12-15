@@ -1,0 +1,5 @@
+SONG song1 = {"Starship","Nothing's Gonna Stop Us Now","Looking in your eyes I see a paradise"};
+SONG song2 = {"Gregory Abbott","Shake You Down","Girl, I been watching you"};
+SONG song3 = {"Whitney Houston","I Wanna Dance With Somebody","Clock strikes upon the hour"};
+SONG song4 = {"Disturbed","The Sound Of Silence","Hello darkness, my old friend"};
+SONG song5 = {"Five Finger Death Punch","Bad Company","A company always on the run"};
