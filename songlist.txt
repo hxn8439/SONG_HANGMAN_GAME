@@ -1,5 +1,5 @@
-SONG song1 = {"Starship","Nothing's Gonna Stop Us Now","Looking in your eyes I see a paradise"};
-SONG song2 = {"Gregory Abbott","Shake You Down","Girl, I been watching you"};
-SONG song3 = {"Whitney Houston","I Wanna Dance With Somebody","Clock strikes upon the hour"};
-SONG song4 = {"Disturbed","The Sound Of Silence","Hello darkness, my old friend"};
-SONG song5 = {"Five Finger Death Punch","Bad Company","A company always on the run"};
+SONG song1 = {"Seven","Collapse","One that makes me understand the evil underneath"};
+SONG song2 = {"Hollow Front","Still Life","Searching for the chance"};
+SONG song3 = {"Breaking Benjamin","Without You","Search for the answers I knew all along"};
+SONG song4 = {"Breaking Benjamin","Red Cold River","This life has left me cold and damned"};
+SONG song5 = {"Three Days Grace","Time Of Dying Music","I feel alive when you're beside me"};
