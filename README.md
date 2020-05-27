@@ -25,7 +25,7 @@ Hangman_Songs.c, MyLib.c, MyLib.h, makefile, songlist.txt
 Compilation instructions:
 in Unix shell:
 
-make
+->make
 
 Hangman_Songs.e
 
