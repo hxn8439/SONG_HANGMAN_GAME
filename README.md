@@ -27,5 +27,5 @@ in Unix shell:
 
 ->make
 
-Hangman_Songs.e
+->Hangman_Songs.e
 
